@@ -15,5 +15,6 @@ pwd/
 tmp/
 .gemini/
 
-# Keep source and md files
+# Keep source, md files and assets
 # (Everything else is kept by default unless ignored above)
+!assets/
