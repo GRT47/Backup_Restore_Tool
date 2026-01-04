@@ -1,0 +1,21 @@
+# Selective ignore
+*
+
+# Allow MD files
+!*.md
+
+# Allow source directory
+!source/
+
+# Ignore build artifacts in source
+source/**/bin/
+source/**/obj/
+source/**/.vs/
+source/**/publish/
+source/**/*.exe
+source/**/*.dll
+source/**/*.pdb
+source/**/*.user
+
+# Allow gitignored files that we actually want
+!.gitignore
