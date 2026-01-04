@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupRestoreTool", "BackupRestoreTool.csproj", "{785DBF52-5374-8045-C22E-23424D16094A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785DBF52-5374-8045-C22E-23424D16094A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785DBF52-5374-8045-C22E-23424D16094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785DBF52-5374-8045-C22E-23424D16094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785DBF52-5374-8045-C22E-23424D16094A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F85E9D34-9570-4490-9330-C10AA8CB39B8}
+	EndGlobalSection
+EndGlobal

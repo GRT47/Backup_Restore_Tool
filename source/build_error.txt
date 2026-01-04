@@ -1,0 +1,48 @@
+MSBuild version 17.3.4+a400405ba for .NET
+  복원할 프로젝트를 확인하는 중...
+  H:\github\format_v2\source\BackupRestoreTool.csproj을(를) 77 ms 동안 복원했습니다.
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'progressBar'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'mainPanel'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'txtLog'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'chkChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'chkEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnBackupChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnRestoreChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnInstallChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnBackupEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnRestoreEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnInstallEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\Logger.cs(8,44): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 이벤트 'OnLogReceived'에 null이 아닌 값을 포함해야 합니다. 이벤트을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(31,36): warning CS8600: null 리터럴 또는 가능한 null 값을 null을 허용하지 않는 형식으로 변환하는 중입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(33,37): warning CS8602: null 가능 참조에 대한 역참조입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(89,29): warning CS8600: null 리터럴 또는 가능한 null 값을 null을 허용하지 않는 형식으로 변환하는 중입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(90,17): warning CS8602: null 가능 참조에 대한 역참조입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\BrowserService.cs(114,17): error CS0246: 'ProcessStartInfo' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\BrowserService.cs(114,44): error CS0246: 'ProcessStartInfo' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(199,131): warning CS8625: Null 리터럴을 null을 허용하지 않는 참조 형식으로 변환할 수 없습니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+
+빌드하지 못했습니다.
+
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'progressBar'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'mainPanel'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'txtLog'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'chkChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'chkEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnBackupChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnRestoreChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnInstallChrome'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnBackupEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnRestoreEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(21,16): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 필드 'btnInstallEdge'에 null이 아닌 값을 포함해야 합니다. 필드을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\Logger.cs(8,44): warning CS8618: 생성자를 종료할 때 null을 허용하지 않는 이벤트 'OnLogReceived'에 null이 아닌 값을 포함해야 합니다. 이벤트을(를) null 허용으로 선언해 보세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(31,36): warning CS8600: null 리터럴 또는 가능한 null 값을 null을 허용하지 않는 형식으로 변환하는 중입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(33,37): warning CS8602: null 가능 참조에 대한 역참조입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(89,29): warning CS8600: null 리터럴 또는 가능한 null 값을 null을 허용하지 않는 형식으로 변환하는 중입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\PrinterService.cs(90,17): warning CS8602: null 가능 참조에 대한 역참조입니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\MainForm.cs(199,131): warning CS8625: Null 리터럴을 null을 허용하지 않는 참조 형식으로 변환할 수 없습니다. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\BrowserService.cs(114,17): error CS0246: 'ProcessStartInfo' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+H:\github\format_v2\source\Services\BrowserService.cs(114,44): error CS0246: 'ProcessStartInfo' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요. [H:\github\format_v2\source\BackupRestoreTool.csproj]
+    경고 17개
+    오류 2개
+
+경과 시간: 00:00:00.93

@@ -1,21 +1,19 @@
 # Selective ignore
-*
+# Ignore build artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+publish/
+*.exe
+*.dll
+*.pdb
+*.user
 
-# Allow MD files
-!*.md
+# Ignore specific large folders from this project
+final*/
+pwd/
+tmp/
+.gemini/
 
-# Allow source directory
-!source/
-
-# Ignore build artifacts in source
-source/**/bin/
-source/**/obj/
-source/**/.vs/
-source/**/publish/
-source/**/*.exe
-source/**/*.dll
-source/**/*.pdb
-source/**/*.user
-
-# Allow gitignored files that we actually want
-!.gitignore
+# Keep source and md files
+# (Everything else is kept by default unless ignored above)
